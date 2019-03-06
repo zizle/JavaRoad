@@ -1,4 +1,4 @@
-package cn.zizle.exercises;
+package cn.zizle.exercises.primeNumbers;
 
 // 题目：输入一个正整数，输出这个正整数以内的所有质数
 
